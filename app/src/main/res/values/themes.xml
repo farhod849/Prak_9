@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Prakt9" parent="Theme.Material3.DayNight.NoActionBar">
+      <item name="buttonStyle">@color/black</item>
+    </style>
+
+    <style name="Theme.Prakt9" parent="Base.Theme.Prakt9" />
+</resources>
